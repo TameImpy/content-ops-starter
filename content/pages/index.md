@@ -92,7 +92,7 @@ sections:
       - title: 20x
         subtitle: The Job Stuff
         text: |+
-          ## Good Food: The best and most trusted food media brand
+          ### Good Food: The best and most trusted food media brand
 
         image:
           url: /images/icon2.svg
