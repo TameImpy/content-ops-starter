@@ -65,7 +65,7 @@ sections:
         title: 500k
         subtitle: Numbers Done
         text: |+
-          ### Radio Times: The UK’s number one since 1923
+          ##### Radio Times: The UK’s number one since 1923
 
         actions: []
         elementId: null
