@@ -7,7 +7,7 @@ sections:
       text: "Immediate\_– home to trusted brands that people love"
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Our brands inspire millions
     text: >
       At Immediate, we’re home to some of the biggest and most loved consumer
       brands in the UK, including Radio Times, Good Food, Nutracheck,
