@@ -9,9 +9,13 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      At Immediate, we’re home to some of the biggest and most loved consumer
+      brands in the UK, including Radio Times, Good Food, Nutracheck,
+      HistoryExtra and BBC Gardeners’ World Magazine. Our trusted, quality
+      content reaches millions of people a month across digital, print, video,
+      podcasts, apps, live events, tools and services. We’re the destination for
+      people looking to get more joy from the things they love – helping to
+      inspire them, deepen their knowledge, skills and fuel their passions
     actions:
       - label: Get started
         altText: ''
