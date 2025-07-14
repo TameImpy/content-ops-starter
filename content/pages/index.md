@@ -57,7 +57,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: AOP Best Digital Consumer Publishing Company 2024
+      text: Our brands inspire millions
       color: text-dark
       styles:
         self:
