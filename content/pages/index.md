@@ -57,7 +57,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: AOP Best Digital Consumer Publishing Company 2024
       color: text-dark
       styles:
         self:
